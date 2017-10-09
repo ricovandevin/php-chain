@@ -1,0 +1,14 @@
+{
+    "name": "rico.vandevin/php-chain",
+    "description": "PHP based Blockchain",
+    "type": "project",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Rico van de Vin",
+            "email": "rico@finlet.eu"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
